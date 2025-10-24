@@ -1,0 +1,2 @@
+# AI-Headshot-Generator-Professional-Profile-Pictures-with-Gemini-API
+This project is a web application that leverages the power of Google's Gemini AI to transform everyday photos into high-quality, professional headshots. The goal is to provide a simple, fast, and accessible tool for anyone looking to enhance their professional image on platforms like LinkedIn, without the need for an expensive photoshoot. 
